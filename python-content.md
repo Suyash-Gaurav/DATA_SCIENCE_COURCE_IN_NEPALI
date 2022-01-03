@@ -12,6 +12,7 @@ Playlist-0(BASICS)
 					}
 			(1.1),WHat is ai/intro to ai
 					{
+						data science vaneko k ho
 						
 						Ai ko defn
 
@@ -22,21 +23,48 @@ Playlist-0(BASICS)
 
 			(1.2)subsests of ai
 					{
-						machine learning(ML)
+						machine learning(ML) VANEKO K HO
+						
+						deep learning (DL) VANEKO K HO
+						
 
 					}
 			(1.3)difference bet ai ,ml ,dl
+					{
+						actually machine learning vaneko ai ko euta subset(tesko vitra parne) ani deep learning vnaeko chai machine learning ko subset
+						ml use algorithm to preditc wherras deep learning use artificial neural network ANN. It is inspired from the neurons of brain.
+						
+					}
 			(1.4)what is ml
 					(1.4.1) types of ml
-			(1.5)what is dl
-			(1.6)selecting programming language(R,java,c++,python)and why python
-
+						{
+							THere are 3 types of ml :
+								1, Supervised learning
+								2, Unsupervised Learning
+								3, Reinforcement Learning
+						}
+			(1.5)Discription of the types
+				{
+					what is supervised, unsupervised, reinforcement learning?
+					{
+						why it is used exapmle
+						famous algorithm	
+					}
+					
+					
+				}
+			(1.6)selecting programming language
+				{
+					huna ta dherai chan language for data science jastai c++ , java , c, R, Scala
+					tara hami python nai kina garne
+					
+				}
 			
 
 	2 pythn basics:
 		
 		(2.1)jupyter notebook iinstalllation(for ofline)
-		(2.2)intro to google colaab
+		(2.2)intro to google colaab(onine)
 		(2.3)basic function need on ML
 		(2.4)Python libs:
 				(2.4.1)intro to python libs
