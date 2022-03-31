@@ -5,12 +5,12 @@ Master AI , Data Analytics , Machine Learning & Data Science using Python!
 
 What you’ll learn
 
-  Python  for Data science
-  Go from zero to hero in the Entire Pipeline of AI/DataScience/Machine Learning from Data collection to building a Machine Learning Model.
-  Various Feature Engineering Techniques & how to apply it in Real-World
-  How to Approach a problem in Real-World
-  SOlve any problem in your business,job or in real-time with powerful Data Science & Machine learning Algorithms.
-  Case studies
+  1,Python  for Data science
+  2,Go from zero to hero in the Entire Pipeline of AI/DataScience/Machine Learning from Data collection to building a Machine Learning Model.
+  3,Various Feature Engineering Techniques & how to apply it in Real-World
+  4,How to Approach a problem in Real-World
+  5,SOlve any problem in your business,job or in real-time with powerful Data Science & Machine learning Algorithms.
+  6,Case studies
 
 Description
 
